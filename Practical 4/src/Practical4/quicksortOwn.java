@@ -9,7 +9,7 @@ import java.util.Random;
 
 public class quicksortOwn{
 
-    // How to swap, need to use a generic method that is final
+    // Swap method
     public static void swap(int[] array, int i, int j) {
 
         int temp = array[i];
@@ -66,3 +66,4 @@ public class quicksortOwn{
         }
     }
 }
+
