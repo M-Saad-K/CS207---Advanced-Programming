@@ -1,3 +1,8 @@
+/**
+* @ Author: Muhammad Saad Khan
+* @ Date: 2025 / 11 / 30
+* @ Title: Graph.java
+**/
 package practical8;
 import java.util.*;
 /**
@@ -135,3 +140,4 @@ class GraphTest {
         System.out.println("BFS starting from node 0: " + graph.bfs(0));
     }
 }
+
